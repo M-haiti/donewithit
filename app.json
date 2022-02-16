@@ -35,7 +35,7 @@
     },
     "extra": {
       "bugsnag": {
-        "apiKey": "65944012629f33b46f1b196bccbcde9b"
+        "apiKey": ""
       }
     },
     "hooks": {
